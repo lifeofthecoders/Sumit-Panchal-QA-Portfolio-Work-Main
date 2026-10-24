@@ -54,7 +54,7 @@ const ContentCreator = () => {
           {contentCreation.categories.map((category, index) => (
             <a
               key={category.title}
-              href={socialLinks.instagram}
+              href={socialLinks.linkedin}
               target="_blank"
               rel="noopener noreferrer"
               className="block"

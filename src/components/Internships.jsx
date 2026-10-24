@@ -70,7 +70,7 @@ const Internships = () => {
             QA PROFESSIONAL EXPERIENCE
           </h2>
           <p className="text-red-100 text-base md:text-lg font-semibold max-w-lg mx-auto">
-            5+ years of hands-on experience ensuring real-world software quality through meticulous testing, strategic test planning, and effective defect management across real-world applications. 🧪
+            5+ years of hands-on experience ensuring real-world software quality through meticulous testing, strategic test planning, and effective defect management across real-world applications.
           </p>
         </div>
 

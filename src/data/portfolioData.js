@@ -16,7 +16,6 @@ export const personalInfo = {
   },
   summary:
     "Quality Assurance professional focused on manual testing, test case design, test execution, defect reporting, regression testing, and improving software quality and user experience.",
-  resumeUrl: "/Sumit_Panchal_QA_Resume.pdf",
 };
 
 export const socialLinks = {
@@ -37,12 +36,12 @@ export const heroContent = {
     text: "Contact Me",
     href: "#contact",
   },
-  ctaResume: { text: "Download Resume", href: "/Sumit_Panchal_QA_Resume.pdf" },
+  ctaResume: { text: "Download Resume", href: "#", },
 };
 
 export const aboutContent = {
   heading: "Building Reliable Software Through Precision Testing",
-  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Sumit Panchal</span>, a Quality Assurance professional who focuses on understanding requirements, validating user workflows, identifying defects, and helping teams deliver dependable software. My QA approach emphasizes careful observation, structured test cases, clear bug reports, and user-focused testing. I collaborate with developers and stakeholders to communicate issues clearly and support a smoother release process.`,
+  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Sumit Panchal</span>, a Manual Quality Assurance professional with 5+ years of experience focused on understanding requirements, validating user workflows, identifying defects, and helping teams deliver dependable software. My testing approach emphasizes careful observation, structured test cases, clear bug reports, functional validation, regression testing, and user-focused testing. I collaborate with developers and stakeholders to communicate issues clearly and support smoother, higher-quality releases.`,
   techStack: ["Manual Testing", "Test Case Design", "Test Execution", "Bug Reporting", "Regression Testing", "Smoke Testing", "Exploratory Testing", "Jira", "Postman", "AI/ML"],
   highlights: [
     "⭐ Manual QA & Software Testing",

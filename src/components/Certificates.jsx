@@ -38,8 +38,8 @@ const Certificates = () => {
           <h2 className="text-4xl md:text-5xl font-black text-black mb-4 tracking-tight">
             Certifications
           </h2>
-          <p className="text-red-100 text-base md:text-lg font-semibold max-w-lg mx-auto">
-            Industry-recognized certifications that validate my technical expertise.
+          <p className="text-red-100 text-base text-justify md:text-lg font-semibold max-w-lg mx-auto">
+            Professional certifications that demonstrate my expertise in software testing, quality assurance, and continuous learning.
           </p>
         </div>
 

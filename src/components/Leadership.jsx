@@ -64,10 +64,10 @@ const Leadership = () => {
             Activities
           </div>
           <h2 className="text-4xl md:text-5xl font-black text-white tracking-tight mb-4 uppercase">
-            Leadership & Engagement
+            Quality Leadership & Professional Engagement
           </h2>
           <p className="text-white/50 text-base md:text-lg max-w-lg mx-auto leading-relaxed">
-            Coordinating events, leading team operations, and participating in tech summits.
+            Leading QA activities, coordinating testing efforts, mentoring team members, collaborating with developers and stakeholders, and driving continuous improvements in software quality, testing processes, and defect prevention.
           </p>
         </div>
 
