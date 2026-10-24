@@ -47,7 +47,7 @@ const Hero = () => {
       </video>
 
       {/* Left Floating Social Bar for Large Screens */}
-      <div className="hidden lg:flex flex-col gap-6 fixed left-6 top-1/2 -translate-y-1/2 z-50 mix-blend-difference">
+      <div className="hidden lg:flex flex-col gap-6 fixed left-4 top-1/2 -translate-y-1/2 z-50 mix-blend-difference">
 
         {/* GitHub 🐙 */}
         <a

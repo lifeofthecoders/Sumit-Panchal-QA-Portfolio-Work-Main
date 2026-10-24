@@ -78,7 +78,7 @@ const Footer = () => {
             {personalInfo.emails.primary}
           </a>
 
-          <div className="flex items-center gap-4 mt-2">
+          <div className="flex items-center gap-6 mt-2">
 
             {/* GitHub 🐙 */}
             <a
@@ -152,7 +152,7 @@ const Footer = () => {
 
           </div>
 
-          <div className="flex items-center gap-4 mt-2">
+          <div className="flex items-center gap-6 mt-2">
             <a
               className="text-[#ff2a2a] hover:text-blue-500 transition-colors duration-300 underline underline-offset-4 decoration-1 lowercase whitespace-nowrap"
             >

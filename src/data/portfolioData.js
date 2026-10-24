@@ -566,7 +566,8 @@ export const certificates = {
   ],
 
   viewAllUrl:
-    "https://drive.google.com/drive/folders/1KAzZNVsiafrUw9DHKvzEc-LusKSMz9tG?usp=sharing",
+  "https://drive.google.com/drive/folders/17mW1OLL2auzhS53rrtTuQ_wd9HQ4u0Hz?usp=drive_link",  
+  // "https://drive.google.com/drive/folders/1KAzZNVsiafrUw9DHKvzEc-LusKSMz9tG?usp=sharing",
 };
 
 export const softSkillsList = [
