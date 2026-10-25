@@ -1,87 +1,206 @@
-# Sam Wilson | Quality Assurance & Software Testing Portfolio
+# Sumit Panchal | Manual QA & Software Testing Portfolio
 
-A professional portfolio showcasing my practical Quality Assurance work, software testing expertise, test documentation, and commitment to building reliable, high-quality digital experiences.
+A professional portfolio showcasing **5+ years of experience in Manual Quality Assurance, software testing, defect identification, test documentation, and user-focused quality validation**.
+
+🌐 **Live Portfolio:**  
+https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio-Work-Main/
+
+---
 
 ## 👨‍💻 About
 
-I'm Sam Wilson, a Quality Assurance professional focused on software quality, practical testing, and user experience. This portfolio brings together testing projects, QA documentation, test scenarios, and examples of structured defect investigation.
+Hi, I'm **Sumit Panchal**, a **Manual QA Professional with 5+ years of experience** in software testing and quality assurance.
 
-My goal is to share useful, reusable QA resources that help testers and developers identify issues, validate critical workflows, and improve software reliability.
+I focus on understanding requirements, validating user workflows, designing structured test cases, identifying and documenting defects, and helping teams deliver reliable and user-friendly software.
 
-## 🎯 Portfolio Highlights
+My testing approach emphasizes:
 
-- Manual testing and functional validation
-- Test case design and test scenario development
-- Regression and exploratory testing
-- Defect reporting and reproducible bug documentation
-- Web application testing and user journey validation
-- QA documentation and structured test coverage
-- Practical projects demonstrating real-world testing workflows
-- Open-source learning, collaboration, and knowledge sharing
+- Requirement understanding
+- Test scenario and test case design
+- Functional validation
+- Regression testing
+- Smoke and sanity testing
+- Defect identification and reporting
+- User workflow validation
+- UI and usability validation
+- Clear QA documentation
+- Collaboration with developers and stakeholders
 
-## 🧪 Testing Focus
+---
 
-- **Functional Testing:** Validate features against expected requirements.
-- **Regression Testing:** Check that changes do not break existing functionality.
-- **Exploratory Testing:** Investigate application behavior and uncover unexpected issues.
-- **UI Testing:** Review layouts, navigation, responsiveness, and usability.
-- **Test Documentation:** Create clear test cases, test scenarios, and execution records.
-- **Defect Reporting:** Document reproduction steps, expected results, actual results, and supporting evidence.
+## 🎯 Professional Focus
+
+My portfolio demonstrates practical experience and knowledge across key areas of **Manual Software Testing**.
+
+- 🧪 Manual Testing
+- ✅ Functional Testing
+- 🔄 Regression Testing
+- 🚦 Smoke & Sanity Testing
+- 🔍 Exploratory Testing
+- 🐞 Bug & Defect Reporting
+- 📋 Test Case & Test Scenario Design
+- 🖥️ UI & Usability Testing
+- 🌐 Web Application Testing
+- 📱 User Workflow Validation
+- 📑 QA Documentation
+- 🤝 Developer & Stakeholder Collaboration
+
+---
 
 ## 🛠️ Tools & Technologies
 
-My testing toolkit and technical skills may include:
+The portfolio showcases experience with a range of QA and testing tools, including:
 
-- Manual Software Testing
-- Test Case Design
-- Bug and Defect Reporting
-- Browser Developer Tools
-- Git and GitHub
-- Web Application Testing
-- API Testing, where demonstrated by individual projects
-- Test Management and Documentation
+- **Jira** - Defect and issue tracking
+- **Postman** - API testing and validation
+- **Apache JMeter** - Performance testing exposure
+- **Burp Suite** - Web application security testing exposure
+- **Selenium** - Testing tool exposure
+- **Browser Developer Tools** - UI, network, and browser-level validation
+- **Git & GitHub** - Version control and project management
+- **React** - Portfolio application technology
+- **Vite** - Frontend build and development tooling
+- **Tailwind CSS** - UI styling
 
-Project-specific tools and technologies are documented alongside the relevant projects.
+Tool usage and project-specific testing activities are documented within the relevant portfolio sections.
 
-## 📂 Projects
+---
 
-This portfolio is intended to showcase practical QA projects, testing documentation, and reusable learning resources.
+## 📂 Portfolio Projects
 
-Explore individual projects to review their objectives, platforms, testing scope, critical user journeys, test scenarios, defect findings, and documented outcomes where available.
+The portfolio contains practical QA projects designed to demonstrate real-world testing approaches.
 
-Each project should clearly distinguish completed testing work from planned or illustrative examples.
+Each project may include:
 
-## 🌍 Open-Source Contributions
+- Project overview
+- Testing scope
+- Requirements and user workflows
+- Test scenarios
+- Test cases
+- Functional validation
+- Regression coverage
+- Defect identification
+- Expected vs. actual results
+- QA documentation
+- Testing observations and outcomes
 
-I believe practical knowledge becomes more valuable when it can be shared and improved collaboratively.
+Explore the **Projects** section of the live portfolio to review the available work.
 
-Through this portfolio, I aim to:
+---
 
-- Share reusable test cases and QA documentation.
-- Demonstrate structured approaches to software testing.
-- Encourage collaboration between QA professionals and developers.
-- Welcome constructive feedback and useful contributions.
-- Support continuous learning across the software testing community.
+## 🧪 Testing Methodologies & Activities
 
-Contributions, suggestions, and discussions are welcome, subject to the project's license and contribution guidelines.
+### Functional Testing
 
-## 🚀 Getting Started
+Validating application functionality against requirements and expected business behavior.
+
+### Regression Testing
+
+Revalidating existing functionality after changes, fixes, or enhancements.
+
+### Smoke Testing
+
+Performing initial validation to determine whether a build is stable enough for further testing.
+
+### Sanity Testing
+
+Performing focused validation of specific functionality after changes or fixes.
+
+### Exploratory Testing
+
+Investigating application behavior beyond predefined test cases to identify unexpected issues and edge cases.
+
+### UI & Usability Testing
+
+Validating interface behavior, navigation, responsiveness, consistency, and overall user experience.
+
+### Defect Reporting
+
+Creating clear and reproducible defect reports containing:
+
+- Defect summary
+- Environment
+- Preconditions
+- Steps to reproduce
+- Expected result
+- Actual result
+- Severity and priority
+- Supporting evidence
+
+---
+
+## 📋 QA Documentation
+
+This portfolio emphasizes structured and reusable QA documentation, including:
+
+- Test cases
+- Test scenarios
+- Test checklists
+- Bug reports
+- Test execution documentation
+- Regression coverage
+- Expected vs. actual result analysis
+- QA observations
+
+The goal is to make testing activities **clear, traceable, reproducible, and useful for development teams**.
+
+---
+
+## 💼 Professional Strengths
+
+- Strong attention to detail
+- Analytical and logical thinking
+- Requirement analysis
+- Defect investigation
+- Clear technical communication
+- Structured test documentation
+- User-focused testing
+- Cross-functional collaboration
+- Continuous learning
+- Quality-focused mindset
+
+---
+
+## 🎓 Education
+
+Academic qualifications and achievements that shaped my professional journey.
+
+---
+
+## 🏆 Certifications
+
+Professional certifications that demonstrate my expertise in software testing, quality assurance, and continuous learning.
+
+---
+
+## 🌐 Connect With Me
+
+- **GitHub:** https://github.com/lifeofthecoders
+- **LinkedIn:** https://www.linkedin.com/in/sumit-panchal-b790a8236/
+- **Portfolio:** https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio-Work-Main/
+
+---
+
+## 🚀 Run the Project Locally
 
 ### Prerequisites
 
+Make sure you have installed:
+
+- [Node.js](https://nodejs.org/)
+- npm
 - Git
-- Node.js and npm, if required by the project
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/lifeofthecoders/Sumit-Panchal-QA-Portfolio-Work-New.git
+git clone https://github.com/lifeofthecoders/Sumit-Panchal-QA-Portfolio-Work-Main.git
 ```
 
 ### Navigate to the Project
 
 ```bash
-cd Sumit-Panchal-QA-Portfolio-Work-New
+cd Sumit-Panchal-QA-Portfolio-Work-Main
 ```
 
 ### Install Dependencies
@@ -96,22 +215,101 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) if the application starts successfully on the default Next.js development port.
+Vite will provide the local development URL in the terminal, typically:
 
-Check the project's `package.json` for the actual scripts and requirements.
+```text
+http://localhost:5173/
+```
 
-## 🤝 Collaboration
+### Create a Production Build
 
-If you find the testing resources useful, you can explore the repository, report issues, suggest improvements, or contribute in accordance with the project's license.
+```bash
+npm run build
+```
 
-When contributing, provide clear reproduction steps, explain the expected behavior, and include relevant evidence where possible.
+### Preview the Production Build
+
+```bash
+npm run preview
+```
+
+### Run ESLint
+
+```bash
+npm run lint
+```
+
+---
+
+## 🏗️ Technology Stack
+
+This portfolio is built using:
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+- **AOS (Animate On Scroll)**
+- **EmailJS**
+- **JavaScript / JSX**
+
+The current repository's `package.json` confirms Vite as the development/build tool and React as the application framework.
+
+---
+
+## 📁 Project Structure
+
+```text
+Sumit-Panchal-QA-Portfolio-Work-Main/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── data/
+│   └── ...
+│
+├── .github/
+│   └── workflows/
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
+```
+
+---
+
+## 🌍 Deployment
+
+The portfolio is deployed using **GitHub Pages**.
+
+**Live Website:**
+
+https://lifeofthecoders.github.io/Sumit-Panchal-QA-Portfolio-Work-Main/
+
+The repository contains a GitHub Actions workflow under `.github/workflows` for the project deployment.
+
+---
+
+## 📌 Repository
+
+**Repository:**  
+https://github.com/lifeofthecoders/Sumit-Panchal-QA-Portfolio-Work-Main
+
+**Author:** Sumit Panchal
+
+**Role:** Manual QA / Quality Assurance Professional
+
+**Experience:** 5+ Years
+
+---
 
 ## 📄 License
 
-Please refer to the repository's `LICENSE` file for the applicable terms. Preserve all third-party copyright notices and license requirements that apply to the original project and its dependencies.
+This repository contains a personal professional portfolio.
 
-## 🔗 Connect
-
-- **GitHub:** [lifeofthecoders](https://github.com/lifeofthecoders)
-- **Repository:** [Sumit-Panchal-QA-Portfolio-Work-New](https://github.com/lifeofthecoders/Sumit-Panchal-QA-Portfolio-Work-New)
-
+Please respect the copyright and licensing requirements of any third-party libraries, assets, fonts, icons, or other resources used by the project.
