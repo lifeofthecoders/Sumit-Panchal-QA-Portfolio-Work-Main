@@ -27,7 +27,8 @@ const Footer = () => {
         </div>
 
         <div className="flex flex-col gap-2 md:items-end">
-          <p>Available for opportunities</p>
+          <p>Open to New Opportunities</p>
+          <p>Manual QA Professional | 5+ Years</p>
           <p>{new Date().getFullYear()}</p>
         </div>
 
@@ -47,7 +48,7 @@ const Footer = () => {
         <div className="flex flex-col gap-6">
           <a
             href="#contact"
-            className="text-[#ff2a2a] font-bold tracking-[0.2em] uppercase underline hover:text-white transition-colors underline-offset-4 decoration-1"
+            className="self-start text-[#ff2a2a] font-bold tracking-[0.2em] uppercase underline hover:text-white transition-colors duration-300 underline-offset-4 decoration-1"
           >
             Contact
           </a>
@@ -159,7 +160,7 @@ const Footer = () => {
               📡 ... ..- -- .. - / .--. .- -. -.-. .... .- .-.. 🛰️
             </a>
           </div>
-          
+
         </div>
 
         {/* Quality Commitment */}
